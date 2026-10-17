@@ -1,8 +1,20 @@
 {
-  "feedUrl": "",
-  "latestVersion": "0.1.1",
+  "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
+  "latestVersion": "0.1.2",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.2",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.2",
+      "summary": "Java-Start repariert: Fabric API wird wieder korrekt geladen.",
+      "details": [
+        "404-Fehler beim Start mit Minecraft 1.21.11 behoben",
+        "Fabric API 0.141.6+1.21.11 wird automatisch installiert",
+        "Downloadfehler zeigen jetzt die betroffene URL an",
+        "Neue Client-Version prüft den GitHub-Update-Feed"
+      ]
+    },
     {
       "id": "0.1.1",
       "date": "2026-10-17",
