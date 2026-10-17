@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.6",
+  "latestVersion": "0.1.7",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.7",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.7",
+      "summary": "Mod-Profile und installierte Mods bleiben jetzt dauerhaft gespeichert.",
+      "details": [
+        "Der alte einmalige Profil-Reset wurde entfernt",
+        "Vorhandene Profile werden beim Öffnen der Mod-Seite nicht mehr gelöscht",
+        "Nach dem Speichern wird geprüft, ob die Mod-Liste wirklich erhalten wurde"
+      ]
+    },
     {
       "id": "0.1.6",
       "date": "2026-10-17",
