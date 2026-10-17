@@ -1,8 +1,17 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.11",
+  "latestVersion": "0.1.12",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.12",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.12",
+      "summary": "Das NoRisk-Pack-Label wurde aus den Mod-Karten entfernt.",
+      "details": [
+        "Mod-Karten zeigen nur noch relevante Installations- und Kategorien-Tags"
+      ]
+    },
     {
       "id": "0.1.11",
       "date": "2026-10-17",
