@@ -1,8 +1,18 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.8",
+  "latestVersion": "0.1.9",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.9",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.9",
+      "summary": "Die Neuigkeiten wurden bereinigt und enthalten keine Zugangsdaten mehr.",
+      "details": [
+        "Die Update-Historie zeigt keine Zugangscodes mehr",
+        "Die Anmeldung im Client bleibt unverändert geschützt"
+      ]
+    },
     {
       "id": "0.1.8",
       "date": "2026-10-17",
@@ -86,9 +96,8 @@
       "id": "0.1.1",
       "date": "2026-10-17",
       "title": "Fluffy Client 0.1.1",
-      "summary": "Zugangscode, echte Modrinth-Bibliothek und ein dauerhaftes Fluffy-HUD direkt in Minecraft.",
+      "summary": "Echte Modrinth-Bibliothek und ein dauerhaftes Fluffy-HUD direkt in Minecraft.",
       "details": [
-        "Zugangscode Wiziger44 schützt den Desktop-Client",
         "Microsoft-Spielername wird automatisch in der Begrüßung angezeigt",
         "Rechts-Shift öffnet in Minecraft 1.21.11 das Fluffy-Menü",
         "Armor HUD, Full Brightness und Item Scale sind im Spiel einstellbar",
