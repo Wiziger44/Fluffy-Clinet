@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.7",
+  "latestVersion": "0.1.8",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.8",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.8",
+      "summary": "Beim Minecraft-Start öffnet sich jetzt ein Live-Log-Fenster.",
+      "details": [
+        "Minecraft Java schreibt weiterhin in fluffy-java-launch.log",
+        "Eine separate PowerShell-Konsole zeigt die letzten Log-Zeilen und neue Meldungen live",
+        "Mod-Fehler und Fabric-Meldungen sind direkt beim Start sichtbar"
+      ]
+    },
     {
       "id": "0.1.7",
       "date": "2026-10-17",
