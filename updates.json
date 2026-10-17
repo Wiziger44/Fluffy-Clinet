@@ -1,0 +1,33 @@
+{
+  "feedUrl": "",
+  "latestVersion": "0.1.1",
+  "downloadUrl": "",
+  "updates": [
+    {
+      "id": "0.1.1",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.1",
+      "summary": "Zugangscode, echte Modrinth-Bibliothek und ein dauerhaftes Fluffy-HUD direkt in Minecraft.",
+      "details": [
+        "Zugangscode Wiziger44 schützt den Desktop-Client",
+        "Microsoft-Spielername wird automatisch in der Begrüßung angezeigt",
+        "Rechts-Shift öffnet in Minecraft 1.21.11 das Fluffy-Menü",
+        "Armor HUD, Full Brightness und Item Scale sind im Spiel einstellbar",
+        "Das Fluffy-Panel bleibt rechts im Spiel dauerhaft sichtbar",
+        "Modrinth lädt echte Projekte, Vorschaubilder, Kategorien und Downloadzahlen ohne persönlichen API-Key",
+        "Minecraft startet mit dem Namen des gewählten Mod-Profils"
+      ]
+    },
+    {
+      "id": "0.1.0",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.0",
+      "summary": "Mehr Java-Versionen, Modrinth-Mods und direkter Minecraft-Java-Start.",
+      "details": [
+        "17 vollständige Minecraft-Java-Versionen zur Auswahl",
+        "Mouse Tweaks und weitere Fabric-Mods für 1.21.11",
+        "Direkter Java-Start ohne Lunar Client oder Bedrock"
+      ]
+    }
+  ]
+}
