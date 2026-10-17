@@ -1,8 +1,20 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.3",
+  "latestVersion": "0.1.4",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.4",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.4",
+      "summary": "Alte Fremd-Mods werden beim Profilstart sicher isoliert.",
+      "details": [
+        "Feather- und andere alte Temp-JARs werden nicht mehr in Fluffy-Profile geladen",
+        "Vorhandene JAR-Dateien werden sicher nach .minecraft/fluffy-client/quarantine verschoben",
+        "Nichts wird gelöscht und die Fluffy-Mods werden danach sauber neu aktiviert",
+        "Der Mixin-Fehler mit feather.lib.sentry.Sentry wird dadurch verhindert"
+      ]
+    },
     {
       "id": "0.1.3",
       "date": "2026-10-17",
