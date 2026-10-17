@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.5",
+  "latestVersion": "0.1.6",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.6",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.6",
+      "summary": "Mod-Profile werden beim Spielen eindeutig aktiviert und geprüft.",
+      "details": [
+        "Der Spielen-Button startet genau das geöffnete Mod-Profil",
+        "Mehrere Profile können nicht mehr versehentlich verwechselt werden",
+        "Fehlende Mod-Dateien werden vor dem Start angezeigt statt still übersprungen"
+      ]
+    },
     {
       "id": "0.1.5",
       "date": "2026-10-17",
