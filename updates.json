@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.4",
+  "latestVersion": "0.1.5",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.5",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.5",
+      "summary": "Der Spielen-Button in einem Mod-Profil startet jetzt Minecraft Java direkt.",
+      "details": [
+        "Profil öffnen, auf Spielen klicken und das ausgewählte Mod-Profil wird aktiviert",
+        "Minecraft Java wird danach direkt mit diesem Profil gestartet",
+        "Der Button zeigt während des Starts den Status Startet … an"
+      ]
+    },
     {
       "id": "0.1.4",
       "date": "2026-10-17",
