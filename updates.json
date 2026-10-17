@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.10",
+  "latestVersion": "0.1.11",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.11",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.11",
+      "summary": "Der Right-Shift-Absturz im Fluffy-Menü wurde behoben.",
+      "details": [
+        "Der doppelte Minecraft-Hintergrund-Blur wurde entfernt",
+        "Das Menü öffnet sich jetzt mit einem sicheren dunklen Overlay",
+        "Armor HUD, Full Brightness und Item Scale bleiben verfügbar"
+      ]
+    },
     {
       "id": "0.1.10",
       "date": "2026-10-17",
