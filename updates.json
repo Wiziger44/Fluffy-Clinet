@@ -1,8 +1,19 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.2",
+  "latestVersion": "0.1.3",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.3",
+      "date": "2026-10-17",
+      "title": "Fluffy Client 0.1.3",
+      "summary": "Mixin-Sicherheit verbessert: Minecraft startet auch bei kleinen 1.21.x-Abweichungen.",
+      "details": [
+        "Held-Item-Scaling ist jetzt optional und blockiert den Spielstart nicht mehr",
+        "Armor HUD, Full Brightness und das dauerhafte rechte Panel bleiben verfügbar",
+        "Nicht passende Mixin-Ziele werden nur noch übersprungen statt den Client zu beenden"
+      ]
+    },
     {
       "id": "0.1.2",
       "date": "2026-10-17",
