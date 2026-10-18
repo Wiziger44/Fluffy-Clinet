@@ -1,8 +1,20 @@
 {
   "feedUrl": "https://raw.githubusercontent.com/Wiziger44/Fluffy-Clinet/main/updates.json",
-  "latestVersion": "0.1.12",
+  "latestVersion": "0.1.13",
   "downloadUrl": "",
   "updates": [
+    {
+      "id": "0.1.13",
+      "date": "2026-10-18",
+      "title": "Fluffy Client 0.1.13",
+      "summary": "Der neue FPS Fix reduziert unnötige Renderlast.",
+      "details": [
+        "Renderdistanz wird im FPS-Modus auf maximal 10 Chunks begrenzt",
+        "Simulationsdistanz wird auf maximal 6 Chunks begrenzt",
+        "Entity-Schatten werden deaktiviert",
+        "Der FPS Fix kann im Right-Shift-Menü ein- und ausgeschaltet werden"
+      ]
+    },
     {
       "id": "0.1.12",
       "date": "2026-10-17",
